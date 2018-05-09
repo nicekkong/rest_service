@@ -113,6 +113,3 @@ venv.bak/
 out
 gen
 .gitignore
-manage.py
-restservice/
-templates/
